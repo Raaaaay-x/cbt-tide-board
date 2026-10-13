@@ -1,0 +1,20 @@
+# 本地草稿
+.tide_draft.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# Streamlit 临时
+.streamlit/
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
+
+# 临时输出目录（tide_chart.py 生成）
+out_*/
+tide_out/
