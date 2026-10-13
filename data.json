@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-13T01:29:26.733Z",
+  "updatedAt": "2026-10-13T01:32:53.214Z",
   "date": "2026-10-13",
   "snapTime": "18:25",
   "K": 264,
-  "qtyText": ""
+  "qtyText": "LAX\nONTRAC: 8\nUSPS: 16\nFEDEX: 3\nGOFO: 15\nUNIUNI: 3\nUPS: 6\nVEHO: 3\n\nEWR\nSWIFTX: 10\nUSPS: 0\nFEDEX: 0\nGOFO: 0\nUNIUNI: 0\nONTRAC: 0\nUPS: 0\nVEHO: 0\n\nATL\nSWIFTX: 4\nUSPS: 3\nFEDEX: 0\nGOFO: 5\nUNIUNI: 0\nONTRAC: 27\nUPS: 1\nVEHO: 0\n\nDFW\nSWIFTX: 0\nUSPS: 0\nFEDEX: 0\nGOFO: 9\nUNIUNI: 0\nONTRAC: 0\nUPS: 0\nVEHO: 0\n\nORD\nSWIFTX: 3\nUSPS: 0\nFEDEX: 0\nGOFO: 0\nUNIUNI: 0\nONTRAC: 0\nUPS: 0\nVEHO: 0"
 }
